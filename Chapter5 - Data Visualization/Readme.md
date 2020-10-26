@@ -1,3 +1,5 @@
+# BAY WHEELS DATA ANALYSIS
+
 Over the last decade, bicycle share networks have increased in number and prevalence in cities around the world. Bicycle share services allow users to borrow short-distance bicycles, normally 30 minutes or less. Thanks to the increase of information technology, it is easy for the system user to enter the dock inside the system to unlock or return bicycles. These solutions also have a range of data that can be used to analyze how these bike sharing networks are used.
 
 Bay Wheels (known as Ford GoBike) is the Bay Area's new bike sharing scheme, with thousands of shared bikes to be used around San Francisco, East Bay and San Jose. The rental bikes was built with comfort in mind. It's a fun and inexpensive way to travel around town. It also offers a single ride of $2 a day that's ideal for a one-way trip, a monthly membership of $15 a month for a decent price for residents, and a 10 dollar entry pass that's perfect for exploring.
